@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Near By Application 🚀",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Enables users to find nearby locations, including restaurants, ATMs, and other points of interest.",
+    url: "https://github.com/sunkusaarthak/near-by",
   },
   {
-    title: "Web Development for Beginners",
+    title: "College Android Application 🤓",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Empowered students with a user-friendly platform to access essential college information, including details about staff, academics, study certificates, college offerings, Marks, and more",
+    url: "https://github.com/sunkusaarthak/College-Android-Application/",
   },
   {
-    title: "My Resume Site",
+    title: "Android Material 3 Widgets",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "About Android 12 new Material theming known as ‘Material You’ - a dynamic colour scheme.",
+    url: "https://sunkusaarthak.medium.com/android-material-3-elements-4f48eb762cb",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "100% Observability and its Applications",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "100% observability that will change many of the existing problems and can improve conventional applications, some of it's applications and improvements.",
+    url: "https://sunkusaarthak.medium.com/100-observability-and-its-applications-7a50f2207ded",
   },
 ];
 
